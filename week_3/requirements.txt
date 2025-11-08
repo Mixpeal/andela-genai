@@ -1,0 +1,36 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# Vector stores and embeddings
+chromadb
+
+# OpenAI
+openai
+
+# YouTube and audio processing
+yt-dlp
+openai-whisper
+
+# Article extraction
+newspaper3k
+
+# Web framework
+streamlit
+
+# Environment management
+python-dotenv
+
+# Additional dependencies
+requests
+tiktoken
+
+# Voice Assistant
+elevenlabs
+webrtcvad-wheels
+pyaudio
+pydub
+PyPDF2
+python-docx
