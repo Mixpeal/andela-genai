@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+data/
+downloads/
+*.md
+!README.md
+.DS_Store
+

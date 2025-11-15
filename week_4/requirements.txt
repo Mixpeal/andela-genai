@@ -1,0 +1,28 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# LangGraph for workflow orchestration
+langgraph
+
+# OpenAI
+openai
+
+# Web framework
+streamlit
+
+# Environment management
+python-dotenv
+
+# Content extraction
+yt-dlp
+openai-whisper
+newspaper3k
+
+# Additional dependencies
+requests
+tiktoken
+pydantic
+
